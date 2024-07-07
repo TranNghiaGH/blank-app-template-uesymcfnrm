@@ -1,1 +1,1 @@
-streamlit
+st-supabase-connection==2.0.0
